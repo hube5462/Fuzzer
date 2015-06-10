@@ -1,3 +1,5 @@
+#Author:	Aaron Huber
+#Date:		3/2015
 import socket
 import sys
 
